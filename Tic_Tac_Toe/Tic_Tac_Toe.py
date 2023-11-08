@@ -1,0 +1,8 @@
+print("-------------------------")
+print("Welcome to the game!")
+print("   |   |   ")
+print("-----------")
+print("   |   |   ")
+print("-----------")
+print("   |   |   ")
+print("please select a position to enter the X between 1 to 9:" )
